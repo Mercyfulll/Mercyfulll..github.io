@@ -1,0 +1,118 @@
+li {
+    display:inline-block ;
+    float: right;
+    
+}
+.menu{
+  font-size: 17px;
+}
+a {
+    display: block;
+    padding: 8px;
+    
+}
+p{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: large;
+}
+
+.me{
+    border-radius: 50%;;
+    background-color: aqua;
+    margin-left: 10em;
+}
+hr{
+    width: 90%;
+    }
+h2{
+  padding-top: 2em;
+}
+h3{
+    font-size: xx-large;
+}
+
+.text{
+    margin-left: auto;
+    padding-left: 2em;
+    padding-right: 2em;
+
+}
+.container{
+    width: 95%;
+    margin-left:auto;
+    margin-right: auto;
+    background-color: #e9edc9;
+}
+.container1{
+    display: flex;
+    padding-bottom: 3em;
+    padding-top: 1em;
+}
+.bio{
+    width:50%;
+    margin-left: 10em;
+}
+.resume {
+    text-align: center;
+    margin-right:auto;
+}
+.hobby{
+    width:50%;
+    margin-left: 10em;
+}
+.content{
+    display: flex;
+    padding-bottom: 3em;
+    padding-top: 3em;
+}
+.about,
+.work,
+.contact{
+  padding: 4em;  
+}
+.contact{
+  text-align: center;
+}
+.work{
+  text-align: center;
+}
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  /* Facebook */
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  /* Twitter */
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+
+  .fa-instagram {
+    background: #C13584;
+    color: white;
+  }
+
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  .footer {
+    text-align: center;
+    padding: 3em;
+  }
